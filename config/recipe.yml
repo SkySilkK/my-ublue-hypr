@@ -23,7 +23,7 @@ modules:
       # - micro
       # - starship
       - neovim
-      - Hyprland
+      - hyprland
       - waybar
       - kitty
       - tmux
